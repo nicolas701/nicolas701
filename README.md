@@ -1,11 +1,3 @@
-<div align="center">
-    <img src="https://img.shields.io/badge/gonzaloacosta-v1.0.0-green">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=gonzaloacosta.gonzaloacosta">
-    <img src="https://img.shields.io/github/stars/gonzaloacosta?style=flat">
-    </br>
-    </br>
-</div>
-
 ### Hi there 👋
 
 - 🔭 I’m currently working on DevOps, and SysAdmin.
