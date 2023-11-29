@@ -2,6 +2,10 @@
 
 - 🔭 I’m currently working on DevOps, and SysAdmin.
 
+### Certifications
+
+- RedHat EX280 https://www.credly.com/badges/1620ba1b-fa59-4ee8-afbd-13bacd05b896/linked_in_profile
+
 ### Languages and Tools
 
 ![DevOps](https://img.shields.io/badge/DevOps-%2314354C.svg?style=for-the-badge&logo=DevOps&logoColor=white)
