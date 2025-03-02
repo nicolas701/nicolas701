@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on DevOps, and SysAdmin.
 
 ### 📫 How to reach me:
-![https://www.linkedin.com/in/njruggiero/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+- [Linkedin](https://www.linkedin.com/in/njruggiero/)
 
 ### Certifications
 
