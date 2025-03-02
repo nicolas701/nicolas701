@@ -7,6 +7,7 @@
 - RedHat EX280 https://www.credly.com/badges/1620ba1b-fa59-4ee8-afbd-13bacd05b896/linked_in_profile
 - RedHat EX200 https://www.credly.com/badges/6a2c5004-a1d6-4fb9-94f1-591056e7d54c/linked_in_profile
 - RedHat EX294 https://www.credly.com/badges/59301034-a1b6-4241-aff3-56000a1a74b2/linked_in_profile
+  
 ### Languages and Tools
 
 ![DevOps](https://img.shields.io/badge/DevOps-%2314354C.svg?style=for-the-badge&logo=DevOps&logoColor=white)
@@ -21,6 +22,8 @@
 ![Bash](https://img.shields.io/badge/bash-2c3539.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![VScode](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 </br>
+
+### 📫 How to reach me: ![Linkedin](https://www.linkedin.com/in/njruggiero/)
 
 <!--
 **nicolas701/nicolas701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
